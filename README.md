@@ -1,5 +1,8 @@
-# LearnWebService-API-with-Golang
+# Learn-WebService-API-with-Golang
 Learn Web Service API with Golang(step by step with Go-Mux and Go-Gin)
+
+Golang Fundamental
+https://dasarpemrogramangolang.novalagung.com/A-web-service-api.html
 
 Golang gin source
 https://github.com/gin-gonic/gin
